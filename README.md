@@ -5,7 +5,7 @@ All questions can be found from https://www.hackerrank.com/domains/python
 <br>
 <br>
 <br>
-List Comprehensions Easy Python (Basic)>
+List Comprehensions Easy Python (Basic)
 <br>
 <br>
 Say "Hello, World!" With Python Easy Python (Basic)
