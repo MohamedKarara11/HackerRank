@@ -1,12 +1,16 @@
 # HackerRank
-List of HackerRank Challenges for Python with answers
+List of all HackerRank Python Challenges with answers.
 
-All Questions can be found from https://www.hackerrank.com/domains/python
-
+All questions can be found from https://www.hackerrank.com/domains/python
+<br>
+<br>
+<br>
 List Comprehensions Easy Python (Basic)
-
+<br>
+<br>
 Say "Hello, World!" With Python Easy Python (Basic)
-
+<br>
+<br>
 Python If-Else
 Easy Python (Basic)
 <br>
