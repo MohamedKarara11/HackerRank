@@ -1,5 +1,5 @@
 # HackerRank
-List of all HackerRank challengs for Python with answers.
+List of all HackerRank challenges for Python with answers.
 
 All questions can be found from https://www.hackerrank.com/domains/python
 <br>
